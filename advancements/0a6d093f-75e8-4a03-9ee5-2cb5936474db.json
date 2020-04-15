@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-04-13 21:55:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-02-28 19:27:27 -0500"
@@ -612,6 +618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-04-13 21:45:24 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2020-04-11 12:34:33 -0400"
@@ -887,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2020-04-13 21:44:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2020-04-12 08:16:11 -0400"
@@ -974,6 +992,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2020-03-15 21:17:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2020-04-13 21:46:49 -0400"
     },
     "done": true
   },
@@ -1246,10 +1270,13 @@
       "minecraft:deep_cold_ocean": "2020-04-13 19:42:56 -0400",
       "minecraft:taiga_hills": "2020-02-28 19:36:15 -0500",
       "minecraft:desert": "2020-02-22 16:37:52 -0500",
+      "minecraft:deep_frozen_ocean": "2020-04-13 22:06:32 -0400",
       "minecraft:jungle": "2020-04-12 13:04:28 -0400",
       "minecraft:birch_forest": "2020-04-11 10:51:06 -0400",
       "minecraft:jungle_hills": "2020-04-12 19:48:47 -0400",
       "minecraft:bamboo_jungle": "2020-04-11 17:24:59 -0400",
+      "minecraft:deep_lukewarm_ocean": "2020-04-13 21:25:26 -0400",
+      "minecraft:badlands": "2020-04-13 21:51:23 -0400",
       "minecraft:savanna_plateau": "2020-02-22 19:17:52 -0500",
       "minecraft:beach": "2020-01-06 11:03:34 -0500",
       "minecraft:dark_forest": "2020-02-28 19:20:51 -0500",
@@ -1260,6 +1287,7 @@
       "minecraft:wooded_hills": "2020-02-28 19:21:25 -0500",
       "minecraft:stone_shore": "2020-02-28 19:20:26 -0500",
       "minecraft:giant_tree_taiga_hills": "2020-04-10 23:36:12 -0400",
+      "minecraft:wooded_badlands_plateau": "2020-04-13 21:44:18 -0400",
       "minecraft:swamp": "2020-04-10 23:36:01 -0400",
       "minecraft:savanna": "2020-02-22 16:53:42 -0500",
       "minecraft:plains": "2020-01-06 11:02:54 -0500"
@@ -1662,6 +1690,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-04-13 21:38:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2020-04-12 08:51:02 -0400"
@@ -1980,6 +2014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2020-04-13 21:44:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-02-22 16:49:55 -0500"
@@ -2266,6 +2306,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2020-04-11 12:37:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-04-13 21:38:52 -0400"
     },
     "done": true
   },
